@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about website development. Here, yo
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on PT. Vascomm Solusi Teknologi as Fullstack Developer.
-- 🌱 I’m currently learning about Laravel, Node JS, and Golang.
-- 👯 I’m looking to collaborate on landing page and transaction proccess project.
-- 🤔 I’m looking for help with digitalization business proccess and product.
+ 🔭 I’m currently working on PT. Vascomm Solusi Teknologi as Fullstack Developer.
+ 🌱 I’m currently learning about Laravel, Node JS, and Golang.
+ 👯 I’m looking to collaborate on landing page and transaction proccess project.
+ 🤔 I’m looking for help with digitalization business proccess and product.
 
 ## 🛠️ Technologies & Tools
 
