@@ -1,4 +1,4 @@
-# 👋 Hello, Friend! I'm Muhammad Afifudin
+# 👋 Hello, Friend! I'm Afifudin Dev
 
 Welcome to my GitHub profile! I'm passionate about website development. Here, you'll find a collection of my projects, experiments, and contributions to the tech community.
 
@@ -34,8 +34,6 @@ If you find my work useful, consider supporting me by:
 
 - ⭐ Starring my repositories.
 - 🐛 Reporting issues or suggesting improvements.
-
----
 
 Thanks for visiting my profile! Have a great day! 😄
 ---
